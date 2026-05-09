@@ -51,7 +51,13 @@ Construir GalianAI: agencia de automatización IA para negocios locales en Espa�
 ia-master-pro/
 ├── README.md                              ← Estás aquí
 ├── plan-formativo.md                      ← Plan de aprendizaje 12 meses + hitos negocio (v2)
-├── certificaciones.md                     ← Certificaciones IA y datos
+├── herramientas.md                        ← Stack completo de herramientas documentado
+├── certificaciones.md                     ← Certificaciones IA y datos (223.5h)
+├── guias/
+│   └── notebooklm-guia-uso.md             ← Cómo sacar el máximo a NotebookLM
+├── perfil-profesional/
+│   ├── linkedin.md                        ← Perfil LinkedIn listo para copiar y pegar
+│   └── curriculum.md                      ← CV profesional para portales de empleo
 ├── modulo-01-fundamentos-ia/
 │   └── README.md                          ← ✅ Completo — 4/4 lecciones
 ├── modulo-02-prompt-engineering/
