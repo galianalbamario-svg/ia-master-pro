@@ -34,6 +34,7 @@ Construir una carrera profesional en Inteligencia Artificial, con foco en automa
 ```
 ia-master-pro/
 ├── README.md                          ← Estás aquí
+├── plan-formativo.md                  ← Plan de aprendizaje 12 meses + hitos negocio
 ├── certificaciones.md                 ← Mis certificaciones IA y datos
 ├── modulo-01-fundamentos-ia/
 │   └── README.md                      ← Notas y resúmenes del Módulo 1
